@@ -1,9 +1,30 @@
 [
   {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/research_project.html",
+      "/projects/summer_project.html"
+    ]
+  },
+  {
+    "listing": "/events.html",
+    "items": [
+      "/events/BIAS25.html",
+      "/events/NeurIPS24.html"
+    ]
+  },
+  {
     "listing": "/blog.html",
     "items": [
-      "/posts/post.html",
-      "/posts/another_post.html"
+      "/blogposts/another_post.html",
+      "/blogposts/post.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/paper.html",
+      "/publications/paper2.html"
     ]
   }
 ]
