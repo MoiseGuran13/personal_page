@@ -180,6 +180,12 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Pro-AI CDT</span></a>
   </div>
 </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="https://orcid.org/0009-0001-7637-8451" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">ORCID</span></a>
+  </div>
+</li>
     </ul>
     </div>
 </nav>
@@ -288,7 +294,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/MoiseGuran13\.github\.io\/personal_page\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

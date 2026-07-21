@@ -2,15 +2,9 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/research_project.html",
-      "/projects/summer_project.html"
-    ]
-  },
-  {
-    "listing": "/events.html",
-    "items": [
-      "/events/BIAS25.html",
-      "/events/NeurIPS24.html"
+      "/projects/summer_project.html",
+      "/projects/tb1_project.html",
+      "/projects/tb2_project.html"
     ]
   },
   {
@@ -18,6 +12,16 @@
     "items": [
       "/blogposts/another_post.html",
       "/blogposts/post.html"
+    ]
+  },
+  {
+    "listing": "/events.html",
+    "items": [
+      "/events/7thRoboticManipulation.html",
+      "/events/AIMLAC25.html",
+      "/events/AISymp26.html",
+      "/events/BIAS25.html",
+      "/events/TheoreticalNeuroscience25.html"
     ]
   },
   {

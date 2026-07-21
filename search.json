@@ -4,7 +4,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Practice-oriented AI is about bridging the gap between between complex problem domains such as those found in science and research, and AI algorithms and techniques that could be used to solve problems in those domains.\nWithin the broad area of practice-oriented AI, my current research interests focus on …\n\nMy current research within the CDT\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum\n\n\nRelevant research I have done previously\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum\n\n\nResearch by others I’m building on\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    "text": "Practice-oriented AI is about bridging the gap between between complex problem domains such as those found in science and research, and AI algorithms and techniques that could be used to solve problems in those domains.\nWithin the broad area of practice-oriented AI, my current research interests focus on …\n\nMy current research within the CDT\nI study Neuromorphic representation in video tactile sensing. Conventional methods in the field made use of simple AI models such as CNNs and RNNs to process incoming image data into some form of useful tabular data, in respect to the problem at hand. The recent introduction of neuromorphic cameras in the field has opened up a vast avenue of opportunity specific to video tactile sensing. I am interested in exploring what innovations can be concieved here as well as what more general wisdom can they provide to the wider AI field.\n\n\nThe Tactile Robotics Group\nA Bristol based group which brings together experts in robotics, neuromoscience and biomimetics to build robots with a human-like sense of touch. We are based at the Bristol Robotics Laboratory (BRL), a site of collaboration between the University of the West of England (UWE) and the University of Bristol."
   },
   {
     "objectID": "publications/paper2.html",
@@ -18,28 +18,42 @@
     "href": "projects.html",
     "title": "AI-Related Projects",
     "section": "",
-    "text": "Click on one of the headers below to find out about AI-related projects I am or have been involved in.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnother Project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSummer Research Project\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Click on one of the headers below to find out about AI-related projects I am or have been involved in.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNeuromorphically Inspired Representation for Video Codecs\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAI for Materials Discovery: Biodegradable Polymers for Military Ration Packaging\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAgentic Ticket Triage and Response\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/research_project.html",
-    "href": "projects/research_project.html",
-    "title": "Another Project",
+    "objectID": "projects/tb1_project.html",
+    "href": "projects/tb1_project.html",
+    "title": "AI for Materials Discovery: Biodegradable Polymers for Military Ration Packaging",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    "text": "The application of artificial intelligence (AI) methods in the discovery of biodegradable polymers is an increasingly important research direction due to the inefficiencies of traditionally used methods. The aim of this study is to explore and compare traditional machine learning (ML) models such as Random Forests (RF) and XGBoost to more recent GNNs (GNNs) to rapidly predict various properties applicable for biodegradable military food packaging applications from input polymer SMILES. After collecting applicable polymer datasets from the literature, we explore appropriate feature embeddings for representing polymers for use in our selected models. Model selection and analysis is conducted on the property of Glass Transition temperature (Tg), with our best model evaluated on additional properties. Despite our results being preliminary, they indicate that the models we experimented with displayed promising results for producing reliable polymer property predictions . We also carried out investigations into the efficacy of pre-training GNN models. Finally, the potential usefulness and limitations of applying ML tools to accelerate materials discovery is discussed."
   },
   {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Events",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My research in Practice-Oriented Artificial Intelligence",
     "section": "",
-    "text": "AI researchers attend many academic events, such as conferences, workshops, summer schools etc., to advertise their work and learn about the latest developments. Here I keep track of the relevant events I have attended or helped organise.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBIAS 2025 Summer School\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2024 Neural Information Processing Conference\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "My name is Moise ‘Moses’ Guran and I am a PhD student at the UKRI AI Centre for Doctoral Training in Practice-Oriented Artificial Intelligence. This is my professional website where I describe my main research area, ongoing projects, publications, and other AI-related activities."
   },
   {
-    "objectID": "events/BIAS25.html",
-    "href": "events/BIAS25.html",
-    "title": "BIAS 2025 Summer School",
+    "objectID": "events/TheoreticalNeuroscience25.html",
+    "href": "events/TheoreticalNeuroscience25.html",
+    "title": "1st UK Theoretical Neuroscience Workshop",
     "section": "",
-    "text": "I was a member of the organising committee for the annual Bristol Interactive AI Summer School.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    "text": "I was fortunate enough to attend the first edition of the UK Theoretical Neuroscience Workshop at the University of London, on the 16th of December 2025."
+  },
+  {
+    "objectID": "events/AISymp26.html",
+    "href": "events/AISymp26.html",
+    "title": "Foundations and Applications of Trustworthy AI",
+    "section": "",
+    "text": "I have been on the organising committee of a Bristol symposium titled “Foundations and Applications of Trustworthy AI” on the 27th of March 2026."
+  },
+  {
+    "objectID": "events/7thRoboticManipulation.html",
+    "href": "events/7thRoboticManipulation.html",
+    "title": "The 7th UK Robot Manipulation Workshop",
+    "section": "",
+    "text": "i was lucky enough to attend the 7th UK Robot Manipulation Workshop hosted by the University of Edinburgh on the 6th and 7th of January 2026"
   },
   {
     "objectID": "blogposts/another_post.html",
@@ -63,25 +77,39 @@
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
-    "objectID": "events/NeurIPS24.html",
-    "href": "events/NeurIPS24.html",
-    "title": "2024 Neural Information Processing Conference",
+    "objectID": "events/AIMLAC25.html",
+    "href": "events/AIMLAC25.html",
+    "title": "the 2025 Conference on Artificial Intelligence",
     "section": "",
-    "text": "I was fortunate to present my work at a NeurIPS’24 workshop.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    "text": "On June 24-26th 2025, I got to attend the 2025 Conference on Artificial Intelligence jointly organised by the UKRI CDT in Artificial Intelligence Machine Learning and Advanced Computing (AIMLAC), UKRI CDT in Interactive Artificial Intelligence and UKRI AI CDT in Practice-Oriented Artificial Intelligence"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "My research in Practice-Oriented Artificial Intelligence",
+    "objectID": "events/BIAS25.html",
+    "href": "events/BIAS25.html",
+    "title": "BIAS 2025 Summer School",
     "section": "",
-    "text": "My name is Moise ‘Moses’ Guran and I am a PhD student at the UKRI AI Centre for Doctoral Training in Practice-Oriented Artificial Intelligence. This is my professional website where I describe my main research area, ongoing projects, publications, and other AI-related activities."
+    "text": "I was a member of the organising committee for the annual Bristol Interactive AI Summer School."
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "AI researchers attend many academic events, such as conferences, workshops, summer schools etc., to advertise their work and learn about the latest developments. Here I keep track of the relevant events I have attended or helped organise.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe 7th UK Robot Manipulation Workshop\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nthe 2025 Conference on Artificial Intelligence\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFoundations and Applications of Trustworthy AI\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBIAS 2025 Summer School\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1st UK Theoretical Neuroscience Workshop\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/summer_project.html",
     "href": "projects/summer_project.html",
-    "title": "Summer Research Project",
+    "title": "Neuromorphically Inspired Representation for Video Codecs",
     "section": "",
-    "text": "At the end of the Foundation Year I carry out a pilot project for the PhD proper. Mine is about …"
+    "text": "With recent advancements in Event-vision, the neuromorphic computer vision field which operates with ultra-low electrical requirements, the encoding and decoding of videos as events has become achievable, thus enabling a new form of video codec. This work explores the hypothesis that technologies from multiple field can be combined to make a novel functional AI video codec based on Neuromorphically Inspired Representation (NIR) suited for general use."
+  },
+  {
+    "objectID": "projects/tb2_project.html",
+    "href": "projects/tb2_project.html",
+    "title": "Agentic Ticket Triage and Response",
+    "section": "",
+    "text": "In enterprise environments, IT support teams are increasingly burdened by the volume and complexity of service desk tickets driven by expanding digital infrastructure and remote work. This project explores the development of an agentic AI framework for automating first-line IT support tasks, including ticket triage and response generation. Leveraging Large Language Models (LLMs), synthetic data generation, and frameworks like LangGraph, the system replicates core elements of IT Support Management environments. A multi-agent architecture coordinates tasks such as problem diagnosis, classification, and solution generation using retrieval-augmented generation (RAG) and semantic search techniques. Experimental evaluations benchmark the performance of fine-tuned LLMs against traditional machine learning methods like XGBoost. Results show that while fine-tuned LLMs outperform in structured classification tasks, synthetic data limitations and LLM inconsistency pose challenges in response reliability. The study highlights the trade-offs between fluency and factuality, and suggests that agentic systems, when paired with human oversight, offer a promising pathway for scalable and efficient IT support automation."
   },
   {
     "objectID": "publications/paper.html",
